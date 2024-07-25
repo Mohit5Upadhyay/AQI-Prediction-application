@@ -1,8 +1,10 @@
 
 # Objective : Air Quality Index Prediction
+# By : Mohit Upadhyay
 
 import pandas as pd
 import numpy as np
+
 
 # Load the dataset
 data = pd.read_csv('C:\\Users\\HP\\OneDrive\\Desktop\\EIProject\\code\\airQualityIndia.csv')
